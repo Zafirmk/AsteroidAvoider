@@ -15,11 +15,6 @@ $ cd AsteroidAvoider
 ```
 2. Open the project in your preferred IDE  
 
-3. Set the directory for images and music to load (ie: find and replace the following code to your directory)
-```
-/Users/ZafirKhalid/PycharmProjects/AsteroidAvoider/Images/
-/Users/ZafirKhalid/PycharmProjects/AsteroidAvoider/Music/
-```
 ## Controls
 * **UP** Arrow Key: Move Up
 * **DOWN** Arrow key: Move Down
