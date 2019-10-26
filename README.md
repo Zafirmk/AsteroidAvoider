@@ -1,6 +1,7 @@
 # Asteroid Avoider
 
 ![Game Gif](https://github.com/Zafirmk/AsteroidAvoider/blob/master/Extras/AsteroidAvoiderGIF.gif)  
+
 **Project duration**: 1 to 2 weeks  
 **IDE**: Pycharm 2019.2.1 (Community Edition)  
 **Python Version**: Python 3.7
