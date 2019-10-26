@@ -20,6 +20,9 @@ $ cd AsteroidAvoider
 /Users/ZafirKhalid/PycharmProjects/AsteroidAvoider/Images/
 /Users/ZafirKhalid/PycharmProjects/AsteroidAvoider/Music/
 ```
+## Controls
+* **UP** Arrow Key: Move Up
+* **DOWN** Arrow key: Move Down
 
 ### Prerequisites
 Things you need to install before running:
